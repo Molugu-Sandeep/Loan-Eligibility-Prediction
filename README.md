@@ -9,7 +9,7 @@ This code appears to be the beginning of a loan eligibility prediction project u
 4. Data Visualization: It creates visualizations to understand the data:
 - A countplot of 'loan_status' to see the distribution of loan approvals and rejections.
 - Pie charts for 'education' and 'self_employed' to illustrate the proportion of applicants with different educational backgrounds and employment statuses.
-- A histogram of 'cibil_score' to analyze the distribution of applicant credit scores.
+- A histogram of 'credit_score' to analyze the distribution of applicant credit scores.
 
 Feature Engineering
 This section focuses on preparing the data for model training by addressing issues like:
